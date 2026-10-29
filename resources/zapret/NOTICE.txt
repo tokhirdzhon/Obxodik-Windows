@@ -1,0 +1,22 @@
+Сторонние компоненты в этой папке
+==================================
+
+winws.exe, cygwin1.dll, *.bin, списки доменов
+  Проект zapret, автор bol-van, лицензия MIT.
+  Сборка: Flowseal/zapret-discord-youtube 1.10.4, лицензия MIT.
+  Исходный код:
+    https://github.com/bol-van/zapret
+    https://github.com/Flowseal/zapret-discord-youtube
+  Текст лицензии: LICENSE.txt
+
+WinDivert.dll, WinDivert64.sys
+  WinDivert 2.2, автор basil00 и участники проекта.
+  Лицензия: LGPL-3.0 (библиотека), GPL-2.0 (драйвер).
+  Исходный код: https://github.com/basil00/WinDivert
+
+WinDivert — легальный инструмент перехвата и фильтрации трафика. Некоторые
+антивирусы могут помечать его как RiskTool/Not-a-virus. Это не вирус, но
+папку установки стоит добавить в исключения антивируса.
+
+Драйвер загружается только на время работы обхода. Приложение не устанавливает
+постоянную службу.
