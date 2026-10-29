@@ -8,7 +8,7 @@
 не распознавал соединение. Для Telegram дополнительно есть локальный MTProto → WebSocket
 прокси, который помогает при блокировке по IP. VPN и сторонние VPN-серверы не используются.
 
-![Obxodik](resources/icon.png)
+![Obxodik Windows](docs/screenshot.png)
 
 ## Что умеет
 
