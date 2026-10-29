@@ -1,6 +1,6 @@
 # Obxodik Windows
 
-**Android-версия:** [Obxodik-Android](https://github.com/tokhirdzhon/Obxodik-Android)  
+**Android-версия:** [Obxodik-Android](https://github.com/tokhirdzhon/Obxodik-Android) · [Скачать APK](https://github.com/tokhirdzhon/Obxodik-Android/releases/latest)  
 **Скачать установщик:** [Obxodik-Setup-1.1.0.exe](https://github.com/tokhirdzhon/Obxodik-Windows/releases/latest)
 
 Простой локальный инструмент для **YouTube**, **Discord** и **Telegram** на Windows 10/11.
